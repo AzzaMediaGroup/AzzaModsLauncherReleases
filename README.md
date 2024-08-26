@@ -1,2 +1,2 @@
 # AzzaModsLauncherReleases
-This contains releases for the AzzaMods mod launcher.
+This contains releases for AzzaMods.
